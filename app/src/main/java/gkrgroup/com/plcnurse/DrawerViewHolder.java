@@ -37,30 +37,49 @@ public class DrawerViewHolder extends RecyclerView.ViewHolder {
                         ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
                         break;
                     case 1:
-                        bundle.putString("url",Config.storeUrl );
+                        bundle.putString("url",Config.menu2Url );
                         webViewFragment.setArguments(bundle);
                         ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
                         break;
                     case 2:
-                        bundle.putString("url", Config.serviceUrl);
+                        bundle.putString("url", Config.menu3Url);
                         webViewFragment.setArguments(bundle);
                         ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
                         break;
                     case 3:
-                        bundle.putString("url", Config.supportUrl);
+                        bundle.putString("url", Config.menu4Url);
                         webViewFragment.setArguments(bundle);
                         ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
                         break;
+
+
                     case 4:
-                        ((MainActivity) context).loadFragment(new AboutUs(), false);
+                        bundle.putString("url", Config.menu5Url);
+                        webViewFragment.setArguments(bundle);
+                        ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
                         break;
 
                     case 5:
-                        bundle.putString("url", Config.contactUrl);
+                        bundle.putString("url", Config.menu6Url);
                         webViewFragment.setArguments(bundle);
                         ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
                         break;
 
+                    case 6:
+                        bundle.putString("url", Config.menu7Url);
+                        webViewFragment.setArguments(bundle);
+                        ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
+                        break;
+
+                    case 7:
+                        bundle.putString("url", Config.menu8Url);
+                        webViewFragment.setArguments(bundle);
+                        ((MainActivity) context).loadFragment(webViewFragment, false,"webViewFragment");
+                        break;
+
+                        case 8:
+                        ((MainActivity) context).loadFragment(new AboutUs(), false);
+                        break;
 
                 }
                 MainActivity.customDrawerAdapter.notifyDataSetChanged();

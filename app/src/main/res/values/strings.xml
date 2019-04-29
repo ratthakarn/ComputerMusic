@@ -5,12 +5,14 @@
     <string name="bannerAd">ca-app-pub-1834341646038975/7301043552</string>
     <string name="interstitial">ca-app-pub-1834341646038975/8422553533</string>
     <string-array name="menuArray">
-        <item>Home</item>
-        <item>Services</item>
-        <item>Ourteam</item>
-        <item>Contact</item>
-        <item>Privacy Policy</item>
-        <item>Drsant Blog</item>
+        <item>ISPG</item>
+        <item>NursingAssessment</item>
+        <item>NursingSkills</item>
+        <item>NursingProcedure</item>
+        <item>EquipmentUsage</item>
+        <item>Medication Administration</item>
+
+
 
     </string-array>
 </resources>
