@@ -6,10 +6,10 @@
     <string name="interstitial">ca-app-pub-1834341646038975/8422553533</string>
     <string-array name="menuArray">
         <item>ISPG</item>
-        <item>NursingAssessment</item>
-        <item>NursingSkills</item>
-        <item>NursingProcedure</item>
-        <item>EquipmentUsage</item>
+        <item>Nursing Assessment</item>
+        <item>Nursing Skills</item>
+        <item>Nursing Procedure</item>
+        <item>Equipment Usage</item>
         <item>Medication Administration</item>
 
 
