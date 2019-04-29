@@ -1,4 +1,4 @@
-package abhiandroid.com.ultimatewebview;
+package gkrgroup.com.plcnurse;
 
 import android.content.BroadcastReceiver;
 import android.content.Intent;
@@ -33,7 +33,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import abhiandroid.com.ultimatewebview.Fragments.WebViewFragment;
+import gkrgroup.com.plcnurse.Fragments.WebViewFragment;
 
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {

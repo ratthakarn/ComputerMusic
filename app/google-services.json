@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "45446238797",
-    "firebase_url": "https://gkrgroup-dbe06.firebaseio.com",
-    "project_id": "gkrgroup-dbe06",
-    "storage_bucket": "gkrgroup-dbe06.appspot.com"
+    "project_number": "549871453740",
+    "firebase_url": "https://plcnurse.firebaseio.com",
+    "project_id": "plcnurse",
+    "storage_bucket": "plcnurse.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:45446238797:android:1961c699f24c0838",
+        "mobilesdk_app_id": "1:549871453740:android:7a2590cd4669e9f6",
         "android_client_info": {
-          "package_name": "abhiandroid.com.ultimatewebview"
+          "package_name": "gkrgroup.com.plcnurse"
         }
       },
       "oauth_client": [
         {
-          "client_id": "45446238797-doqp0qg6k1tcnvbr7skvjqk3gv09qtns.apps.googleusercontent.com",
+          "client_id": "549871453740-pqfok2b40ntatrmi5obc0980tii25k8j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCkbAfEJ9aznKKPV7kd0sGD0j-KlzoD8Vk"
+          "current_key": "AIzaSyCR3ozS-fMz1jIXhFm3NVOus301ja8bQAw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "45446238797-doqp0qg6k1tcnvbr7skvjqk3gv09qtns.apps.googleusercontent.com",
+              "client_id": "549871453740-pqfok2b40ntatrmi5obc0980tii25k8j.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

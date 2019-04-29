@@ -1,4 +1,4 @@
-package abhiandroid.com.ultimatewebview;
+package gkrgroup.com.plcnurse;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import abhiandroid.com.ultimatewebview.Fragments.AboutUs;
-import abhiandroid.com.ultimatewebview.Fragments.WebViewFragment;
+import gkrgroup.com.plcnurse.Fragments.AboutUs;
+import gkrgroup.com.plcnurse.Fragments.WebViewFragment;
 
 /**
  * Created by AbhiAndroid
