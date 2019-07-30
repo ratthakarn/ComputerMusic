@@ -1,4 +1,4 @@
-package gkrgroup.com.plcnurse;
+package gkrgroup.com.commusic;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import gkrgroup.com.plcnurse.Fragments.AboutUs;
-import gkrgroup.com.plcnurse.Fragments.WebViewFragment;
+import gkrgroup.com.commusic.Fragments.AboutUs;
+import gkrgroup.com.commusic.Fragments.WebViewFragment;
 
 /**
  * Created by AbhiAndroid

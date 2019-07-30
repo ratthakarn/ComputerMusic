@@ -1,4 +1,4 @@
-package gkrgroup.com.plcnurse.Fragments;
+package gkrgroup.com.commusic.Fragments;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import gkrgroup.com.plcnurse.MainActivity;
-import gkrgroup.com.plcnurse.R;
+import gkrgroup.com.commusic.MainActivity;
+import gkrgroup.com.commusic.R;
 
 public class AboutUs extends Fragment {
 

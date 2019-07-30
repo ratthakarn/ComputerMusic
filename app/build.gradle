@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "gkrgroup.com.plcnurse"
+        applicationId "gkrgroup.com.commusic"
         minSdkVersion 18
         targetSdkVersion 27
         versionCode 1

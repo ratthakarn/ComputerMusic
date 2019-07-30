@@ -1,4 +1,4 @@
-package gkrgroup.com.plcnurse.FCM;
+package gkrgroup.com.commusic.FCM;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -8,7 +8,7 @@ import android.util.Log;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
 
-import gkrgroup.com.plcnurse.Config;
+import gkrgroup.com.commusic.Config;
 
 public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
     private static final String TAG = MyFirebaseInstanceIDService.class.getSimpleName();

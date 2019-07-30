@@ -1,4 +1,4 @@
-package gkrgroup.com.plcnurse.FCM;
+package gkrgroup.com.commusic.FCM;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -19,8 +19,8 @@ import com.google.firebase.messaging.RemoteMessage;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import gkrgroup.com.plcnurse.R;
-import gkrgroup.com.plcnurse.SplashScreen;
+import gkrgroup.com.commusic.R;
+import gkrgroup.com.commusic.SplashScreen;
 
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {

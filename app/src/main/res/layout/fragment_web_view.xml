@@ -10,7 +10,7 @@
         android:layout_height="match_parent">
 
 
-            <gkrgroup.com.plcnurse.CustomWebview
+            <gkrgroup.com.commusic.CustomWebview
                 android:id="@+id/simpleWebView"
                 android:layout_width="match_parent"
                 android:focusableInTouchMode="true"

@@ -1,4 +1,4 @@
-package gkrgroup.com.plcnurse.Fragments;
+package gkrgroup.com.commusic.Fragments;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -54,10 +54,10 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import gkrgroup.com.plcnurse.DetectConnection;
-import gkrgroup.com.plcnurse.CustomWebview;
-import gkrgroup.com.plcnurse.MainActivity;
-import gkrgroup.com.plcnurse.R;
+import gkrgroup.com.commusic.DetectConnection;
+import gkrgroup.com.commusic.CustomWebview;
+import gkrgroup.com.commusic.MainActivity;
+import gkrgroup.com.commusic.R;
 
 
 public class WebViewFragment extends Fragment {

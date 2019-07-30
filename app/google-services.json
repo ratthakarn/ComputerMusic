@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "549871453740",
-    "firebase_url": "https://plcnurse.firebaseio.com",
-    "project_id": "plcnurse",
-    "storage_bucket": "plcnurse.appspot.com"
+    "project_number": "218654829973",
+    "firebase_url": "https://commusic-ab807.firebaseio.com",
+    "project_id": "commusic-ab807",
+    "storage_bucket": "commusic-ab807.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:549871453740:android:7a2590cd4669e9f6",
+        "mobilesdk_app_id": "1:218654829973:android:45466581a429f94d",
         "android_client_info": {
-          "package_name": "gkrgroup.com.plcnurse"
+          "package_name": "gkrgroup.com.commusic"
         }
       },
       "oauth_client": [
         {
-          "client_id": "549871453740-pqfok2b40ntatrmi5obc0980tii25k8j.apps.googleusercontent.com",
+          "client_id": "218654829973-812elaoneqo5dgm11iumqlp9uuf41vj0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCR3ozS-fMz1jIXhFm3NVOus301ja8bQAw"
+          "current_key": "AIzaSyDsG5maB4qRLkycJ3dERl2Q33URZH31aiY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "549871453740-pqfok2b40ntatrmi5obc0980tii25k8j.apps.googleusercontent.com",
+              "client_id": "218654829973-812elaoneqo5dgm11iumqlp9uuf41vj0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

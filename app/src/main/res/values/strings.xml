@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">PLC NURSE</string>
+    <string name="app_name">ComMusic</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="bannerAd">ca-app-pub-1834341646038975/7301043552</string>
     <string name="interstitial">ca-app-pub-1834341646038975/8422553533</string>
     <string-array name="menuArray">
-        <item>ISPG</item>
-        <item>Nursing Assessment</item>
-        <item>Nursing Skills</item>
-        <item>Nursing Procedure</item>
-        <item>Equipment Usage</item>
-        <item>Medication Administration</item>
+        <item>CUBASE</item>
+        <item>LOGIC PRO X</item>
+        <item>SAMPLITUDE</item>
+        <item>DAVINCI RESOLVE</item>
+        <item>IZOTOPE RX</item>
+        <item>AUDIO EQUIPMENT</item>
 
 
 
